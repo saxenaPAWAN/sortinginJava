@@ -1,7 +1,7 @@
 
  
 package SortingAlgorithms;
-
+ 
 public class bubbleSort {
 public static void main(String[] args){
 	int[] arr={2,4,6,45,4,564,6,36,3,56,3,5}; //provided array
