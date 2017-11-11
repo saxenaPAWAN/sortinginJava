@@ -1,2 +1,2 @@
 # sorting2
-selection sort in Java  
+selection sort and bubble sort in Java  
